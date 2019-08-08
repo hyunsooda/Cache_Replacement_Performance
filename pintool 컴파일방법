@@ -1,0 +1,1 @@
+./pin -t source/tools/ManualExamples/obj-intel64/pinatrace.dylib -- <파일이름>
